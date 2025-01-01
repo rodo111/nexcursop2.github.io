@@ -1,0 +1,39 @@
+
+    {
+        "tema_practica": "Los animales",
+        "vocabulario_practica": ["Perro", "Gato", "Tortuga"],
+		"gramatica_practica": "Articulo femenino 'la', masculino 'el'",
+		"gramatica_ejemplos_practica": [
+		    {"tipo": "masculino", "articulo": "el", "ejemplo": "El perro"},
+            {"tipo": "femenino","articulo": "la", "ejemplo": "La tortuga"}          	
+        ],
+        "vocabulario_actividades_practica": [
+				{"actividad": 1, "descripcion": "Vocabulario"},
+				{"actividad": 2, "descripcion": "Describe la imagen"},				
+				{"actividad": 3, "descripcion": "Relacionar el vocabulario con el número de imagen"},
+				{"actividad": 4, "descripcion": "Relaciona el número de imagen con el vocabulario"},
+				{"actividad": 5, "descripcion": "Repite la frase"},
+				{"actividad": 6, "descripcion": "Completa la frase con la opción correcta"}
+        ],
+        "comprension_tipo_practica": "Diálogo",
+        "comprension_texto_dialogo_practica": [
+            {"persona": "María", "texto": "Hola, Juan. ¿Tienes alguna mascota?"},
+            {"persona": "Juan", "texto": "Sí, tengo un perro y una tortuga."},
+            {"persona": "María", "texto": "¡Qué interesante! ¿Cómo se llama tu perro?"},
+            {"persona": "Juan", "texto": "Se llama Max. Lo adopté hace dos años."}
+        ],
+		"comprension_actividades_practica": [
+			{"actividad": 1, "descripcion": "Opción Múltiple"},
+			{"actividad": 2, "descripcion": "Verdadero o Falso"},
+			{"actividad": 3, "descripcion": "Rellena los Espacios"},
+			{"actividad": 4, "descripcion": "Ordena los Eventos"},
+			{"actividad": 5, "descripcion": "Preguntas Abiertas"},
+			{"actividad": 6, "descripcion": "Haz una Pregunta"}
+            
+        ],
+		"escritura_actividades_practica": [
+			{"actividad": 1, "descripcion": "Producción"},
+			{"actividad": 2, "descripcion": "Invención"}
+            
+        ]
+    }
